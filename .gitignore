@@ -112,6 +112,7 @@ venv.bak/
 # mypy 
 .mypy_cache/ 
 
+util/create_contacts.py
 # Sublime Text # 
 *.tmlanguage.cache 
 *.tmPreferences.cache 
